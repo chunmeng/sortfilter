@@ -1,0 +1,5 @@
+*.o
+.qmake.stash
+moc_*
+Makefile
+qsortfilterproxymodelexample
